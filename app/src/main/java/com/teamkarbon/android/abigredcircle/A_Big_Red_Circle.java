@@ -12,6 +12,6 @@ public class A_Big_Red_Circle extends Activity {
         setContentView(R.layout.activity_a__big__red__circle);
         //AHHH
         //WHATS GOING ON...
-
+           //AEJBFOWENGO
     }
 }
